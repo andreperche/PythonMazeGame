@@ -1,0 +1,76 @@
+{"childhood": [{"id": 1,                                                                                
+				"event": "blabla",                                                                      
+				"scene": "blabla blabla blabla blabla blabla blabla blabla blabla blabla",
+				"options" : [                                                                           
+					{ "id" : 1,                                                                         
+					  "desc" : "blobloblo bleo blobloblo",                                                                      
+					  "consequence" : "",
+					  "karma" : "",
+					  "status_effect" : { "Mind" : 0, "Health" : 0, "Dignity" : 0, "Satiety" : 0 }      
+					},                                                                                  
+					{ "id" : 2,                                                                         
+					  "desc" : "bliblibli blebleble",                                                                      
+					  "consequence" : "",        
+					  "karma" : "",                                                       
+					  "status_effect" : { "Mind" : 0, "Health" : 0, "Dignity" : 0, "Satiety" : 0 }      
+					}                                                                                   
+				]                                                                                       
+			  },                                                                                        
+			  { "id": 2,                                                                                
+				"event": "blabla",                                                                      
+				"scene": "blebleble blebleble blebleble blebleble blebleble blebleble blebleble blebleble blebleble blebleble",
+				"options" : [                                                                           
+					{ "id" : 3,                                                                         
+					  "desc" : "",                                                                      
+					  "consequence" : "",    
+					  "karma" : "",                                                           
+					  "status_effect" : { "Mind" : 0, "Health" : 0, "Dignity" : 0, "Satiety" : 0 }      
+					},                                                                                  
+					{ "id" : 4,                                                                         
+					  "desc" : "",                                                                      
+					  "consequence" : "",  
+					  "karma" : "",                                                             
+					  "status_effect" : { "Mind" : 0, "Health" : 0, "Dignity" : 0, "Satiety" : 0 }      
+					}                                                                                   
+				]                                                                                       
+			  }                                                                                       
+ ],
+ "youth": [{"id": 1,                                                                                
+				"event": "blabla",                                                                      
+				"scene": "blabla",                                                          
+				"options" : [                                                                           
+					{ "id" : 1,                                                                         
+					  "desc" : "",                                                                      
+					  "consequence" : "",    
+					  "karma" : "",                                                           
+					  "status_effect" : { "Mind" : 0, "Health" : 0, "Dignity" : 0, "Satiety" : 0 }      
+					},                                                                                  
+					{ "id" : 2,                                                                         
+					  "desc" : "",                                                                      
+					  "consequence" : "",  
+					  "karma" : "",                                                             
+					  "status_effect" : { "Mind" : 0, "Health" : 0, "Dignity" : 0, "Satiety" : 0 }      
+					}                                                                                   
+				]                                                                                       
+			  }                                                                                       
+ ],
+ "adult": [{"id": 1,                                                                                
+				"event": "blabla",                                                                      
+				"scene": "blabla",                                                          
+				"options" : [                                                                           
+					{ "id" : 1,                                                                         
+					  "desc" : "",                                                                      
+					  "consequence" : "",  
+					  "karma" : "",                                                             
+					  "status_effect" : { "Mind" : 0, "Health" : 0, "Dignity" : 0, "Satiety" : 0 }      
+					},                                                                                  
+					{ "id" : 2,                                                                         
+					  "desc" : "",                                                                      
+					  "consequence" : "",    
+					  "karma" : "",                                                           
+					  "status_effect" : { "Mind" : 0, "Health" : 0, "Dignity" : 0, "Satiety" : 0 }      
+					}                                                                                   
+				]                                                                                       
+			  }                                                                                       
+ ]
+}
