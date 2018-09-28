@@ -1,0 +1,76 @@
+{"childhood": [{"id": 1,                                                                                
+				"event": "A Pedra",                                                                      
+				"scene": "Você avista Firmino, um garoto grande e corpulento atirando pedras contra um pequeno barracão. Ele já havia o importunado algumas vezes. Ele sorri maliciosamente e lhe estende uma pedra. -'Ei, nanico! Quero ver jogar essa pedra naquela janela. Ou você tem medinho?",
+				"options" : [                                                                           
+					{ "id" : 1,                                                                         
+					  "desc" : "Você agarra a pedra encarando o bully. Em seguida a arremessa com toda sua força contra o barracão.",                                                                      
+					  "consequence" : "Apesar de ser pequeno, você arremessa com força. A pedra passa longe da janela e atingindo uma madeira na borda do telhado. Instantaneamente ela se desloca derrubando uma fileira de telhas de amianto, que despencam e estilhaçam no chão causando um estrondo. Firmino corre gargalhando. Você corre assustado. Um garoto os observa com um olhar triste.",
+					  "karma" : "Aquele foi um ano frio e chuvoso. Você se lembra que naquele ano uma garotinha da vizinhança morreu de pneumonia.",
+					  "status_effect" : { "Mind" : -5, "Health" : 0, "Dignity" : -10, "Satiety" : 10 }      
+					},                                                                                  
+					{ "id" : 2,                                                                         
+					  "desc" : "Você não quer fazer isso... Você pega a pedra e a joga no chão.",                                                                      
+					  "consequence" : "O Bully irritado: 'Eu sabia que era um Bundão!' VocÊ leva uns safanões, ele te joga no chão lhe aplica um generoso 'cuecão'. Sua calça rasga e ele vai embora rindo de deboche. Um garoto o ajuda a se levantar dizendo: 'Não ligue pra isso. Ele é um idiota'. Você caminha por alguns quarteirões até em casa tentando se tapar como pode.",        
+					  "karma" : "Aquele foi um ano frio e chuvoso. Você se recorda bem como safanões que levava na escola latejavam com o frio... As crianças na escola  o chamavam de 'Bundinha'. Apesar de tudo, sua consciência estava tranquila.",                                                
+					  "status_effect" : { "Mind" : 5, "Health" : -10, "Dignity" : 10, "Satiety" : 0 }      
+					}                                                                                   
+				]                                                                                       
+			  },
+        {"id": 2,                                                                                
+				"event": "A Rua",                                                                      
+				"scene": "Você está atrasado para uma prova no primeiro horário de aula, para piorar esta matéria não é o seu forte. No caminho para escola você se pepara com um senhor com pé enfaixado tentando atravessar com dificuldade uma rua movimentada na direção opsta a sua.",
+				"options" : [                                                                           
+					{ "id" : 1,                                                                         
+					  "desc" : "Você ajuda o senhor a atravessar. Dane-se a prova!",                                                                      
+					  "consequence" : "Você oferece ajuda, e ele aceita com um sorriso e se apresenta. Seu nome é Manoel. Enquanto oferece ajuda, um caminhão desce desembestado atravessando o cruzamento fazendo com que os carros freiem abruptamente. Você leva Manoel até seu destino mais adiante. Você chega atrasado na escola e apesar de tentar não consegue fazer toda a prova.",
+					  "karma" : "Você ficou de recuperação naquele ano. E precisou frequantar monitorias enquanto o seus amigos curtiam as férias.",
+					  "status_effect" : { "Mind" : -5, "Health" : 0, "Dignity" : 10, "Satiety" : -5 }      
+					},                                                                                  
+					{ "id" : 2,                                                                         
+					  "desc" : "Você ignora o senhor, e vai para o outro acelera em direção a escola.",                                                                      
+					  "consequence" : "Você aperta o passo em direção a escola. Você vê o senhor atravessando a rua no momento em que um caminhão desce acelerado. Você escuta freiadas e buzinas, você vê o senhor correndo com dificuldade. O caminhão passa muito próximo ao homem que consegue se desviar, porém pisa em uma atadura solta e projeta-se pra frente caindo rasgando os joelhos no calçamento. Você se vira, corre e chega a tempo para prova.",        
+					  "karma" : "Você ouviu falar que aquele senhor foi levado para o hospital. Aparentemente não foi nada grave. Você passou de ano raspando e curtiu as férias com seus amigos",                                                
+					  "status_effect" : { "Mind" : 10, "Health" : 0, "Dignity" : -15, "Satiety" : 0 }      
+					}                                                                                   
+				]                                                                                       
+			  }                                                                                      
+ ],
+ "youth": [{"id": 1,                                                                                
+				"event": "blabla",                                                                      
+				"scene": "blabla",                                                          
+				"options" : [                                                                           
+					{ "id" : 1,                                                                         
+					  "desc" : "",                                                                      
+					  "consequence" : "",    
+					  "karma" : "",                                                           
+					  "status_effect" : { "Mind" : 0, "Health" : 0, "Dignity" : 0, "Satiety" : 0 }      
+					},                                                                                  
+					{ "id" : 2,                                                                         
+					  "desc" : "",                                                                      
+					  "consequence" : "",  
+					  "karma" : "",                                                             
+					  "status_effect" : { "Mind" : 0, "Health" : 0, "Dignity" : 0, "Satiety" : 0 }      
+					}                                                                                   
+				]                                                                                       
+			  }                                                                                       
+ ],
+ "adult": [{"id": 1,                                                                                
+				"event": "blabla",                                                                      
+				"scene": "blabla",                                                          
+				"options" : [                                                                           
+					{ "id" : 1,                                                                         
+					  "desc" : "",                                                                      
+					  "consequence" : "",  
+					  "karma" : "",                                                             
+					  "status_effect" : { "Mind" : 0, "Health" : 0, "Dignity" : 0, "Satiety" : 0 }      
+					},                                                                                  
+					{ "id" : 2,                                                                         
+					  "desc" : "",                                                                      
+					  "consequence" : "",    
+					  "karma" : "",                                                           
+					  "status_effect" : { "Mind" : 0, "Health" : 0, "Dignity" : 0, "Satiety" : 0 }      
+					}                                                                                   
+				]                                                                                       
+			  }                                                                                       
+ ]
+}
